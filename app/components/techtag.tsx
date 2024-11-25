@@ -9,7 +9,7 @@ export const TechTag: React.FC<TechTagProps> = ({ techstack }) => {
 		{techstack.map((tech, index) => (
 		<span
 			key={index}
-			className="px-2.5 py-[2px] border rounded-xl text-[#d4d4d8] border-[#4a4a4a]"
+			className="px-2.5 py-[2px] border rounded-xl text-[#d4d4d8] text-sm border-[#4a4a4a]"
 		>
 			{tech}
 		</span>
