@@ -7,15 +7,15 @@ import { Analytics } from "./components/analytics";
 export const metadata: Metadata = {
   title: {
     default: "Talha Khan",
-    template: "%s | chronark.com",
+    template: "%s | talha-khan.dev",
   },
   description: "Portfolio of Md. Talha Khan",
   openGraph: {
-    title: "chronark.com",
+    title: "talha-khan.dev",
     description:
       "Portfolio of Md. Talha Khan",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    url: "https://talha-khan.dev",
+    siteName: "talha-khan.dev",
     images: [
       {
         url: "/tk.png",
